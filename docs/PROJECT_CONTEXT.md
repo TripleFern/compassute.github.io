@@ -24,6 +24,10 @@ Compassuteの公式ウェブサイトとして、**「AI生成画像」と「実
 ### C1. 販売先：AI art のデジタル販売
 #### 海外向け
 - https://aiartshop.com/
+- https://gumroad.com/ (スマホ壁紙セット販売)
+
+#### 国内向け
+- https://booth.pm
 
 ### C2. 販売先：AI art, 実写写真のプリント販売
 #### 海外向け
