@@ -24,6 +24,7 @@ github_username:  compassute
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -47,3 +48,41 @@ plugins:
 exclude:
   - docs
   
+breadcrumbs: true
+breadcrumb_home_label : "Home"
+breadcrumb_separator  : "/"
+
+logo: "/assets/images/mini_compassute_88x88.png"
+
+search: true
+
+author: 
+ name: Compassute
+ avatar: /assets/images/solar_eclipse_with_moon_central.jpg
+ bio: "Somewhere between real and unreal."
+ location: "Japan"
+ links:
+  - label: "Instagram"
+    icon: "fa-brands fa-instagram"
+    url: "https://www.instagram.com/compassute/"
+  - label: "Pinterest"
+    icon: "fa-brands fa-pinterest"
+    url: "https://jp.pinterest.com/Compassute/"
+
+footer:
+ links:
+  - label: "Instagram"
+    icon: "fa-brands fa-instagram"
+    url: "https://www.instagram.com/compassute/"
+  - label: "Pinterest"
+    icon: "fa-brands fa-pinterest"
+    url: "https://jp.pinterest.com/Compassute/"
+
+#category_archive:
+#  type: liquid
+#  path: /categories/
+#tag_archive:
+#  type: liquid
+#  path: /tags/
+
+defaults:
