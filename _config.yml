@@ -59,7 +59,7 @@ search: true
 author: 
  name: Compassute
  avatar: /assets/images/solar_eclipse_with_moon_central.jpg
- bio: "Somewhere between real and unreal."
+ bio: "Somewhere between real and unreal — Creating moments and scenes we've wished to see."
  location: "Japan"
  links:
   - label: "Instagram"
@@ -68,6 +68,9 @@ author:
   - label: "Pinterest"
     icon: "fa-brands fa-pinterest"
     url: "https://jp.pinterest.com/Compassute/"
+  - label: "Stock Photos"
+    icon: "fas fa-fw fa-images"
+    url: "/stock-photos/"
 
 footer:
  links:
@@ -86,3 +89,9 @@ footer:
 #  path: /tags/
 
 defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "single"
+      header:
+        image: "/assets/images/chausudake_panorama_mini.jpg"

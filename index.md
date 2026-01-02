@@ -9,6 +9,6 @@ author_profile: true
 
 Welcome to Compassute.
 
-Exploring the intersection of **AI Generated Images** and **traditional Photography**.
+Exploring the intersection of AI-Generated and Photographed Images.
 
 Please browse the gallery to see our collection.
